@@ -1,1 +1,1 @@
-init git
+ hello init git
